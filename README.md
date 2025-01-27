@@ -144,9 +144,12 @@ This repository contains a comprehensive collection of notes and interview quest
 - Situational judgment tests
 
 
+ ## Contact
 
+If you have any questions, suggestions, or just want to connect, feel free to reach out!
 
-
-
+- **Email**: prathameshaj2004@gmail.com
+- **LinkedIn**: www.linkedin.com/in/prathamesh-jadhav30
+- Thank you for visiting my repository. Happy coding!
 
 Good luck with your placement preparation! 🚀
